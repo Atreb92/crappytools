@@ -1,0 +1,3 @@
+# GitHub repos whose releases are collected into the Sileo source (one per line)
+Atreb92/crappytouch
+Atreb92/crappyproxy
